@@ -1,0 +1,16 @@
+{
+  "name": "origami-demo",
+  "dependencies": {
+    "o-assets": "^0.4.1",
+    "o-buttons": "^4.0.1",
+    "o-grid": "^4.0.0",
+    "o-header": "^6.12.0",
+    "o-footer": "^5.2.1",
+    "o-toggle": "^1.0.0",
+    "o-typography": "^4.1.0",
+    "o-viewport": "^2.2.0",
+    "o-overlay": "^1.8.8",
+    "isomorphic-fetch": "^2.2.1",
+    "es6-promise": "^4.0.5"
+  }
+}

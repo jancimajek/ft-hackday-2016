@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "origami-build-tools": "latest",
+    "gulp": "latest"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
