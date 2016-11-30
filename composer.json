@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Ft\\": "src/Ft/"
+        }
+    },
+    "require": {
+        "aws/aws-sdk-php": "^3.19"
+    }
+}
